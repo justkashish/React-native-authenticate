@@ -1,3 +1,40 @@
+# 🔐 React Native Auth App (Expo + Supabase)
+
+A basic React Native application demonstrating email-based authentication using **Supabase**, built with **Expo**.
+
+---
+
+## 📱 Tech Stack
+
+- **React Native** (via Expo)
+- **Supabase** (Authentication + Backend)
+- **React Navigation** (for screen routing)
+
+---
+
+## ✨ Features
+
+- Splash screen with a minimal logo  
+- Login and Signup screen (email-based)
+- Supabase authentication integration
+- Auth flow with:
+  - Redirect to **Home** after login/signup
+  - Show simple greeting (“Hi”)
+  - Logout option that takes user back to login
+- Persistent user session (no need to login again unless logged out)
+- Authentication validation (only registered users can log in)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/react-native-supabase-auth.git
+cd react-native-supabase-auth
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +85,5 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
