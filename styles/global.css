@@ -1,0 +1,11 @@
+/* Global styles */
+
+* {
+    box-sizing: border-box;
+    font-family: "System", sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
