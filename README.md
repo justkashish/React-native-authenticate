@@ -33,7 +33,7 @@ A basic React Native application demonstrating email-based authentication using 
 ```bash
 git clone https://github.com/your-username/react-native-supabase-auth.git
 cd react-native-supabase-auth
-
+```
 
 # Welcome to your Expo app 👋
 
